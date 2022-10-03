@@ -1,0 +1,16 @@
+.first{
+    background-color: greenyellow;
+    display: block;
+}
+.second{
+    background-color: yellow;
+    display: block;
+}
+.third{
+    background-color: blueviolet;
+    display: block;
+}
+.fourth{
+    background-color: aqua;
+    display: block;
+}
